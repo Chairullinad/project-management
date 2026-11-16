@@ -26,13 +26,18 @@ flowchart LR
 
 | Bagian | Topik Kursus | Status | Dokumentasi |
 | :--- | :--- | :---: | :--- |
-| **Course 1** | **Foundations of Project Management** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| **Course 1** | **Foundations of Project Management** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
 | • Module 1 | Intro to Project Management (Role, Value, & Life Cycle) | ✅ Selesai | [01-intro-to-project-management.md](./COURSE-PROJECT-MANAGEMENT/01-intro-to-project-management.md) |
 | • Module 2 | Finding Project Manager Jobs & Career Pathways | ✅ Selesai | [02-finding-project-manager-jobs.md](./COURSE-PROJECT-MANAGEMENT/02-finding-project-manager-jobs.md) |
 | • Module 3 | How Company Culture & Structure Affects Projects | ✅ Selesai | [03-company-culture-and-project-management.md](./COURSE-PROJECT-MANAGEMENT/03-company-culture-and-project-management.md) |
-| • Module 4 | Project Management Methodologies (Agile vs Waterfall) | ⏳ Antrean | - |
-| • Module 5 | Organizational Change Management & Governance | ⏳ Antrean | - |
-| **Course 2** | **Project Initiation: Starting a Successful Project** | ⏳ Rencana | `02-project-initiation/` |
+| • Module 4 | Running Effective Meetings (Pre, During, Post Framework) | ✅ Selesai | [04-running-effective-meetings.md](./COURSE-PROJECT-MANAGEMENT/04-running-effective-meetings.md) |
+| • Module 5 | Effective Communication for Project Managers | ✅ Selesai | [05-effective-communication-for-pms.md](./COURSE-PROJECT-MANAGEMENT/05-effective-communication-for-pms.md) |
+| **Course 2** | **Project Initiation: Starting a Successful Project** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 6 | Key Components of Project Initiation & Project Charter | ✅ Selesai | [06-project-initiation-components.md](./COURSE-PROJECT-MANAGEMENT/06-project-initiation-components.md) |
+| • Module 7 | Stakeholder Engagement & Communication (Power-Interest & RACI) | ✅ Selesai | [07-stakeholder-engagement-and-communication.md](./COURSE-PROJECT-MANAGEMENT/07-stakeholder-engagement-and-communication.md) |
+| • Module 8 | Setting SMART Goals & Project Deliverables | ⏳ Antrean | - |
+| • Module 9 | Project Management Tools & Resource Allocation | ⏳ Antrean | - |
+| • Module 10 | Risk Management Fundamentals & Risk Register | ⏳ Antrean | - |
 | **Course 3** | **Project Planning: Putting It All Together** | ⏳ Rencana | `03-project-planning/` |
 | **Course 4** | **Project Execution: Running the Project** | ⏳ Rencana | `04-project-execution/` |
 | **Course 5** | **Agile Project Management (Scrum Framework)** | ⏳ Rencana | `05-agile-project-management/` |
@@ -45,10 +50,14 @@ flowchart LR
 ```
 project-management/
 ├── README.md                                         # Peta kurikulum & progress belajar
-├── COURSE-PROJECT-MANAGEMENT/                        # Kursus 1: Dasar-dasar Manajemen Proyek
+├── COURSE-PROJECT-MANAGEMENT/                        # Modul pembelajaran Google PM
 │   ├── 01-intro-to-project-management.md             # Modul 1: Pengenalan PM, Value, & Siklus Hidup
 │   ├── 02-finding-project-manager-jobs.md            # Modul 2: Lanskap Karier PM & Formula XYZ
-│   └── 03-company-culture-and-project-management.md  # Modul 3: Budaya Organisasi & Change Management
+│   ├── 03-company-culture-and-project-management.md  # Modul 3: Budaya Organisasi & Change Management
+│   ├── 04-running-effective-meetings.md              # Modul 4: Cara Menyelenggarakan Rapat Efektif
+│   ├── 05-effective-communication-for-pms.md         # Modul 5: Komunikasi Efektif Manajer Proyek
+│   ├── 06-project-initiation-components.md           # Modul 6: Bagian Penting Inisiasi Proyek & Charter
+│   └── 07-stakeholder-engagement-and-communication.md # Modul 7: Analisis Stakeholder & Matriks RACI
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```

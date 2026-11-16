@@ -116,6 +116,3 @@ Gunakan checklist ini untuk mengaudit kesiapan profil Anda:
 - [ ] **Transferable Skills Mapping**: Sudahkah mengubah kata-kata teknis koding menjadi istilah kepemimpinan proyek (*Stakeholder Management*, *Scope Definition*, *Risk Mitigation*)?
 - [ ] **Public Portfolio Ready**: Apakah repositori GitHub Anda sudah menyajikan studi kasus proyek terstruktur dan dokumen artefak (BRD, WBS, UAT)?
 - [ ] **Keyword Optimization**: Pastikan profil LinkedIn memuat kata kunci: *Agile, Scrum, Waterfall, SDLC, UAT, Stakeholder Engagement, Budget Tracking, Cross-Functional Leadership*.
-
----
-*Dokumentasi Modul 02 Selesai • Lanjut ke Modul 03: How Company Culture Affects Project Management*

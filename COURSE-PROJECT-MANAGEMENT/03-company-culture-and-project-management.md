@@ -140,6 +140,3 @@ Sebelum memulai proyek baru di lingkungan organisasi mana pun, jawab 5 pertanyaa
 - [ ] **Risk Appetite**: Bagaimana sikap pimpinan terhadap kegagalan teknis awal (Apakah siap memberi toleransi iterasi perbaikan, atau menghukum kesalahan)?
 - [ ] **User Pain Points**: Mengapa pengguna mungkin menolak sistem ini? Beban kerja apa yang mereka khawatirkan bertambah?
 - [ ] **Change Champion Identified**: Siapa 2–3 tokoh kunci informal di tingkat staf yang pendapatnya paling didengar oleh rekan-rekannya?
-
----
-*Dokumentasi Modul 03 Selesai • Lanjut ke Modul 04: Project Management Methodologies (Agile vs Waterfall)*

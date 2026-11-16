@@ -171,6 +171,3 @@ Gunakan checklist ini setiap kali Anda memulai proyek baru:
 - [ ] **Success Metrics Definition**: Apa tolok ukur proyek ini dinyatakan berhasil (misal: penghematan waktu, nol selisih, atau sertifikasi)?
 - [ ] **Constraint Check**: Berapa batas maksimal anggaran (Cost) dan tanggal absolut penyelesaian (Deadline)?
 - [ ] **Methodology Selection**: Apakah proyek ini lebih cocok dikerjakan dengan Waterfall murni, Agile/Scrum, atau Hybrid?
-
----
-*Dokumentasi Modul 01 Selesai • Lanjut ke Modul 02: Project Management Methodologies & Approaches*
