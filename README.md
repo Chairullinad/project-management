@@ -4,12 +4,17 @@
 > **Catatan Belajar & Dokumentasi Profesional Project Management**  
 > Disusun oleh: **Dessy Rahmawati Chairullina, S.Kom**  
 > Sumber Materi: *Google Career Certificates — Project Management Professional Program*  
-> Playlist Referensi: [Google Project Management Certificate (Grow with Google)](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk)
+> Playlist Referensi Utama: [Google Project Management Certificate (Grow with Google)](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk)  
+> Playlist Eksekusi Proyek: [Running the Project | Google Project Management Certificate](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6pHAmqR_WefTq1Wps0QgslA)
 
 ---
 
 ## 🎯 Tujuan Repositori
-Repositori ini berisi dokumentasi terstruktur, intisari materi, bedah metodologi, dan **studi kasus aplikatif** dari kurikulum lengkap 46 modul **Google Project Management Certificate**. Repositori ini dirancang sebagai standar acuan profesional dan portofolio implementasi manajemen proyek di industri teknologi, kesehatan (*healthcare*), dan sistem *enterprise*.
+Repositori ini berisi dokumentasi terstruktur, intisari materi, bedah metodologi, dan **studi kasus aplikatif** dari kurikulum lengkap **Google Project Management Certificate**. Repositori ini dirancang sebagai standar acuan profesional dan portofolio implementasi manajemen proyek di industri teknologi, kesehatan (*healthcare*), dan sistem *enterprise*.
+
+Repositori ini terbagi menjadi dua koleksi modul utama:
+1. 📂 **[`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/)**: Kurikulum lengkap 46 modul (Foundations, Initiation, Planning, Execution, Agile/Scrum, Capstone & Portfolio).
+2. 📂 **[`HOW TO RUNNING THE PROJECT/`](./HOW TO RUNNING THE PROJECT/)**: Modul fokus eksekusi proyek (Leadership vs Management, Data Storytelling, Quality Management, Project Closure, Effective Execution, & Project Tracking).
 
 ---
 
@@ -89,58 +94,38 @@ flowchart LR
 
 ---
 
+## ⚡ Modul Khusus: How to Running the Project (Eksekusi Proyek Nyata)
+
+Modul-modul di bawah ini merupakan deep-dive praktis dari seri khusus **Course 4: Running the Project**, yang dapat diakses langsung pada direktori [**`HOW TO RUNNING THE PROJECT/`**](./HOW%20TO%20RUNNING%20THE%20PROJECT/):
+
+| No | Modul Eksekusi | Topik Bahasan Kunci | Video Referensi | Dokumen Lengkap |
+| :---: | :--- | :--- | :---: | :--- |
+| **01** | **Kepemimpinan vs Manajemen dalam Tim yang Sukses** | Hersey-Blanchard situational leadership, Psychological safety, Servant leadership. | [ypLw8he1Xh0](https://www.youtube.com/watch?v=ypLw8he1Xh0) | [01-kepemimpinan-vs-manajemen-tim-sukses.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/01-kepemimpinan-vs-manajemen-tim-sukses.md) |
+| **02** | **Bercerita dengan Data untuk Mengambil Keputusan** | Segitiga Data Storytelling, Analisis Eksplanatori, Struktur Narasi 3 Babak, Decluttering. | [4VDRNQ_f4IE](https://youtu.be/4VDRNQ_f4IE) | [02-bercerita-dengan-data-untuk-keputusan.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/02-bercerita-dengan-data-untuk-keputusan.md) |
+| **03** | **Manajemen Mutu dan Peningkatan Berkelanjutan** | QA vs QC, Cost of Quality (CoQ), Siklus PDCA Deming, Kaizen, 5 Whys, Poka-yoke. | [QOy2gYuWxSc](https://youtu.be/QOy2gYuWxSc) | [03-manajemen-mutu-dan-peningkatan-berkelanjutan.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/03-manajemen-mutu-dan-peningkatan-berkelanjutan.md) |
+| **04** | **Cara dan Waktu yang Tepat untuk Menutup Proyek** | 4 Kriteria Penutupan (*Closing Gates*), Mencegah *Never-Ending Project*, Dokumen BAST, Retrospektif. | [wJ5f7TxcPR0](https://youtu.be/wJ5f7TxcPR0) | [04-cara-dan-waktu-menutup-proyek.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/04-cara-dan-waktu-menutup-proyek.md) |
+| **05** | **Manajemen Proyek yang Efektif** | Triad Directing-Controlling-Unblocking, Disiplin Change Control Board (CCB), Protokol BLUF. | [umnB8LJImbI](https://youtu.be/umnB8LJImbI) | [05-manajemen-proyek-yang-efektif.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/05-manajemen-proyek-yang-efektif.md) |
+| **06** | **Metode dan Contoh Pelacakan Proyek** | Earned Value Management (EVM - CPI/SPI), Agile Burndown/Burnup, Velocity, RAG Status. | [oLh8akA7F3I](https://youtu.be/oLh8akA7F3I) | [06-metode-dan-contoh-pelacakan-proyek.md](./HOW%20TO%20RUNNING%20THE%20PROJECT/06-metode-dan-contoh-pelacakan-proyek.md) |
+
+---
+
 ## 📂 Struktur Repositori
 
 ```
 project-management/
 ├── README.md                                         # Peta kurikulum & progress belajar lengkap 100%
-├── COURSE-PROJECT-MANAGEMENT/                        # 46 Modul pembelajaran Google PM lengkap
+├── COURSE-PROJECT-MANAGEMENT/                        # 46 Modul kurikulum komprehensif Google PM
 │   ├── 01-intro-to-project-management.md             # Modul 01: Pengenalan PM, Value, & Siklus Hidup
-│   ├── 02-finding-project-manager-jobs.md            # Modul 02: Lanskap Karier PM & Formula XYZ
-│   ├── 03-company-culture-and-project-management.md  # Modul 03: Budaya Organisasi & Change Management
-│   ├── 04-running-effective-meetings.md              # Modul 04: Cara Menyelenggarakan Rapat Efektif
-│   ├── 05-effective-communication-for-pms.md         # Modul 05: Komunikasi Efektif Manajer Proyek
-│   ├── 06-project-initiation-components.md           # Modul 06: Bagian Penting Inisiasi Proyek & Charter
-│   ├── 07-stakeholder-engagement-and-communication.md # Modul 07: Analisis Stakeholder & Matriks RACI
-│   ├── 08-setting-smart-goals-and-okrs.md            # Modul 08: Penetapan Sasaran SMART & OKRs
-│   ├── 09-project-management-tools-and-software.md   # Modul 09: Alat Manajemen Proyek & Spreadsheet
-│   ├── 10-risk-management-fundamentals.md            # Modul 10: Manajemen Risiko & Risk Register
-│   ├── 11-power-of-project-planning.md               # Modul 11: Manfaat Perencanaan Proyek Terstruktur
-│   ├── 12-project-communication-plan.md              # Modul 12: Rencana Komunikasi Master Proyek
-│   ├── 13-project-budgeting-and-procurement.md       # Modul 13: Anggaran Proyek & Manajemen Pengadaan
-│   ├── 14-leadership-vs-management-in-teams.md       # Modul 14: Kepemimpinan Tim & Keamanan Psikologis
-│   ├── 15-data-storytelling-for-decision-making.md   # Modul 15: Bercerita dengan Data untuk Keputusan
-│   ├── 16-quality-management-and-continuous-improvement.md # Modul 16: Manajemen Mutu (QA vs QC)
-│   ├── 17-project-closing-and-retrospective.md       # Modul 17: Penutupan Proyek & Dokumen BAST
-│   ├── 18-project-tracking-methods-and-metrics.md    # Modul 18: Pelacakan Proyek & Burndown Charts
-│   ├── 19-what-is-scrum-framework.md                 # Modul 19: Framework Scrum (Peran, Acara, Artefak)
-│   ├── 20-agile-and-scrum-in-the-real-world.md       # Modul 20: User Stories & Planning Poker
-│   ├── 21-scrum-master-guide-and-facilitation.md     # Modul 21: Panduan Praktis Scrum Master
-│   ├── 22-agile-management-and-retrospectives.md     # Modul 22: Manajemen Agile & Retrospektif
-│   ├── 23-writing-project-closure-reports.md         # Modul 23: Laporan Penutupan Proyek Eksekutif
-│   ├── 24-advanced-planning-and-stakeholder-negotiation.md # Modul 24: Negosiasi Stakeholder & BATNA
-│   ├── 25-master-project-planning-with-spreadsheets.md # Modul 25: Perencanaan Master dengan Google Sheets
-│   ├── 26-defining-and-measuring-project-success.md  # Modul 26: Mengukur Sukses Proyek & Audit PIR
-│   ├── 27-navigating-vuca-in-project-management.md   # Modul 27: Menavigasi Dinamika VUCA & Agility
-│   ├── 28-lean-methodology-and-waste-elimination.md  # Modul 28: 5 Prinsip Lean & Eliminasi Pemborosan
-│   ├── 29-hybrid-project-management-methodology.md   # Modul 29: Metodologi Hibrida (Water-Scrum-Fall)
-│   ├── 30-the-agile-manifesto-and-12-principles.md   # Modul 30: Nilai & 12 Prinsip Agile Manifesto
-│   ├── 31-customer-centricity-and-pm-strategic-value.md # Modul 31: Customer Centricity & Nilai PM
-│   ├── 32-ai-in-project-management-and-modern-toolkit.md # Modul 32: AI dalam Manajemen Proyek Modern
-│   ├── 33-clinical-workflow-mapping-and-emr-adoption.md # Modul 33: Pemetaan Alur Klinis & Adopsi RME
-│   ├── 34-financial-reconciliation-and-claims-management.md # Modul 34: Rekonsiliasi Finansial & Klaim BPJS
-│   ├── 35-enterprise-interoperability-and-fhir-standards.md # Modul 35: Interoperabilitas FHIR & SATUSEHAT
-│   ├── 36-data-governance-patient-privacy-and-security.md # Modul 36: Tata Kelola Data & Keamanan UU PDP
-│   ├── 37-managing-vendor-integrations-and-sla-governance.md # Modul 37: Manajemen Vendor & Kontrak SLA
-│   ├── 38-when-to-use-agile-and-when-to-avoid-it.md  # Modul 38: Filter Kesesuaian Metodologi Agile
-│   ├── 39-lean-six-sigma-principles-and-dmaic.md     # Modul 39: Lean Six Sigma & Optimasi DMAIC
-│   ├── 40-calculating-project-business-value-and-roi.md # Modul 40: Perhitungan Nilai Bisnis & Finansial ROI
-│   ├── 41-influencing-stakeholders-without-authority.md # Modul 41: Mempengaruhi Tanpa Otoritas Struktural
-│   ├── 42-day-in-the-life-of-a-project-manager.md    # Modul 42: Ritme Harian & Disiplin Waktu PM
-│   ├── 43-demonstrating-pm-value-to-c-suite.md       # Modul 43: Membuktikan Nilai PM di Depan Eksekutif
-│   ├── 44-steering-committees-and-board-governance.md # Modul 44: Tata Kelola Komite Pengarah (SteerCo)
-│   ├── 45-building-high-performing-teams-and-peer-effectiveness.md # Modul 45: Membangun Tim Berkinerja Tinggi
+│   ├── ...                                           # [Modul 02 s.d. 45 Lengkap]
 │   └── 46-ba-pm-career-portfolio-and-star-interview-mastery.md # Modul 46: Portofolio Karier & Wawancara STAR
+├── HOW TO RUNNING THE PROJECT/                       # 6 Modul fokus eksekusi proyek Google PM
+│   ├── README.md                                     # Silabus & panduan kursus eksekusi
+│   ├── 01-kepemimpinan-vs-manajemen-tim-sukses.md    # Modul 1: Kepemimpinan vs Manajemen dalam Tim
+│   ├── 02-bercerita-dengan-data-untuk-keputusan.md   # Modul 2: Data Storytelling untuk Keputusan Eksekutif
+│   ├── 03-manajemen-mutu-dan-peningkatan-berkelanjutan.md # Modul 3: QA vs QC & Peningkatan Berkelanjutan
+│   ├── 04-cara-dan-waktu-menutup-proyek.md           # Modul 4: Kriteria & Penutupan Proyek (BAST)
+│   ├── 05-manajemen-proyek-yang-efektif.md           # Modul 5: Tata Kelola Eksekusi & Protokol BLUF
+│   └── 06-metode-dan-contoh-pelacakan-proyek.md      # Modul 6: Pelacakan Proyek (EVM, Agile, RAG)
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
