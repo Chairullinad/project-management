@@ -38,14 +38,21 @@ flowchart LR
 | • Module 8 | Setting SMART Goals & OKRs for Measurable Impact | ✅ Selesai | [08-setting-smart-goals-and-okrs.md](./COURSE-PROJECT-MANAGEMENT/08-setting-smart-goals-and-okrs.md) |
 | • Module 9 | Project Management Tools & Software Architecture | ✅ Selesai | [09-project-management-tools-and-software.md](./COURSE-PROJECT-MANAGEMENT/09-project-management-tools-and-software.md) |
 | • Module 10 | Risk Management Fundamentals & Master Risk Register | ✅ Selesai | [10-risk-management-fundamentals.md](./COURSE-PROJECT-MANAGEMENT/10-risk-management-fundamentals.md) |
-| **Course 3** | **Project Planning: Putting It All Together** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| **Course 3** | **Project Planning: Putting It All Together** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
 | • Module 11 | The Power & Benefits of Comprehensive Project Planning | ✅ Selesai | [11-power-of-project-planning.md](./COURSE-PROJECT-MANAGEMENT/11-power-of-project-planning.md) |
 | • Module 12 | Creating a Master Project Communication Plan | ✅ Selesai | [12-project-communication-plan.md](./COURSE-PROJECT-MANAGEMENT/12-project-communication-plan.md) |
-| • Module 13 | Project Budgeting, Cost Estimation & Procurement | ⏳ Antrean | - |
-| • Module 14 | Leadership vs Management in High-Performing Teams | ⏳ Antrean | - |
-| • Module 15 | Data Storytelling & Quality Management in Projects | ⏳ Antrean | - |
-| **Course 4** | **Project Execution: Running the Project** | ⏳ Rencana | `04-project-execution/` |
-| **Course 5** | **Agile Project Management (Scrum Framework)** | ⏳ Rencana | `05-agile-project-management/` |
+| • Module 13 | Project Budgeting, Cost Estimation & Procurement | ✅ Selesai | [13-project-budgeting-and-procurement.md](./COURSE-PROJECT-MANAGEMENT/13-project-budgeting-and-procurement.md) |
+| **Course 4** | **Project Execution & Closing** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 14 | Leadership vs Management in High-Performing Teams | ✅ Selesai | [14-leadership-vs-management-in-teams.md](./COURSE-PROJECT-MANAGEMENT/14-leadership-vs-management-in-teams.md) |
+| • Module 15 | Data Storytelling for Decision Making | ✅ Selesai | [15-data-storytelling-for-decision-making.md](./COURSE-PROJECT-MANAGEMENT/15-data-storytelling-for-decision-making.md) |
+| • Module 16 | Quality Management & Continuous Improvement (QA vs QC) | ✅ Selesai | [16-quality-management-and-continuous-improvement.md](./COURSE-PROJECT-MANAGEMENT/16-quality-management-and-continuous-improvement.md) |
+| • Module 17 | How & When to Close a Project (BAST & Lessons Learned) | ✅ Selesai | [17-project-closing-and-retrospective.md](./COURSE-PROJECT-MANAGEMENT/17-project-closing-and-retrospective.md) |
+| **Course 5** | **Agile & Scrum Project Management** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 18 | Effective Project Management & Tracking Methods | ⏳ Antrean | - |
+| • Module 19 | What is Scrum? Roles, Events & Artifacts | ⏳ Antrean | - |
+| • Module 20 | Agile & Scrum in the Real World | ⏳ Antrean | - |
+| • Module 21 | Scrum Master Tutorial & Team Facilitation | ⏳ Antrean | - |
+| • Module 22 | Agile Management & Sprint Retrospective | ⏳ Antrean | - |
 | **Course 6** | **Capstone: Applying PM in the Real World** | ⏳ Rencana | `06-capstone-project/` |
 
 ---
@@ -67,7 +74,12 @@ project-management/
 │   ├── 09-project-management-tools-and-software.md   # Modul 9: Alat Manajemen Proyek & Spreadsheet
 │   ├── 10-risk-management-fundamentals.md            # Modul 10: Manajemen Risiko & Risk Register
 │   ├── 11-power-of-project-planning.md               # Modul 11: Manfaat Perencanaan Proyek Terstruktur
-│   └── 12-project-communication-plan.md              # Modul 12: Rencana Komunikasi Master Proyek
+│   ├── 12-project-communication-plan.md              # Modul 12: Rencana Komunikasi Master Proyek
+│   ├── 13-project-budgeting-and-procurement.md       # Modul 13: Anggaran Proyek & Manajemen Pengadaan
+│   ├── 14-leadership-vs-management-in-teams.md       # Modul 14: Kepemimpinan Tim & Keamanan Psikologis
+│   ├── 15-data-storytelling-for-decision-making.md   # Modul 15: Bercerita dengan Data untuk Keputusan
+│   ├── 16-quality-management-and-continuous-improvement.md # Modul 16: Manajemen Mutu (QA vs QC)
+│   └── 17-project-closing-and-retrospective.md       # Modul 17: Penutupan Proyek & Dokumen BAST
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
