@@ -59,10 +59,16 @@ flowchart LR
 | • Module 25 | Master Project Planning with Google Sheets | ✅ Selesai | [25-master-project-planning-with-spreadsheets.md](./COURSE-PROJECT-MANAGEMENT/25-master-project-planning-with-spreadsheets.md) |
 | • Module 26 | Defining & Measuring True Project Success | ✅ Selesai | [26-defining-and-measuring-project-success.md](./COURSE-PROJECT-MANAGEMENT/26-defining-and-measuring-project-success.md) |
 | • Module 27 | Navigating VUCA in Modern Project Management | ✅ Selesai | [27-navigating-vuca-in-project-management.md](./COURSE-PROJECT-MANAGEMENT/27-navigating-vuca-in-project-management.md) |
-| **Specialization** | **Advanced PM Practices & Lean Methodologies** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
-| • Module 28 | Advanced Agile & Lean Six Sigma Principles | ⏳ Antrean | - |
-| • Module 29 | Influencing Organizational Change & Stakeholder Dynamics | ⏳ Antrean | - |
-| • Module 30 | AI-Powered Project Management & Future PM Toolkit | ⏳ Antrean | - |
+| **Specialization** | **Advanced PM Practices & Lean Methodologies** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 28 | 5 Principles of Lean Methodology & Waste Elimination | ✅ Selesai | [28-lean-methodology-and-waste-elimination.md](./COURSE-PROJECT-MANAGEMENT/28-lean-methodology-and-waste-elimination.md) |
+| • Module 29 | Hybrid Project Management: Blending Agile & Waterfall | ✅ Selesai | [29-hybrid-project-management-methodology.md](./COURSE-PROJECT-MANAGEMENT/29-hybrid-project-management-methodology.md) |
+| • Module 30 | The Agile Manifesto & The 12 Guiding Principles | ✅ Selesai | [30-the-agile-manifesto-and-12-principles.md](./COURSE-PROJECT-MANAGEMENT/30-the-agile-manifesto-and-12-principles.md) |
+| • Module 31 | Customer Centricity & The Strategic Value of a PM | ✅ Selesai | [31-customer-centricity-and-pm-strategic-value.md](./COURSE-PROJECT-MANAGEMENT/31-customer-centricity-and-pm-strategic-value.md) |
+| • Module 32 | AI in Project Management & The Modern PM Toolkit | ✅ Selesai | [32-ai-in-project-management-and-modern-toolkit.md](./COURSE-PROJECT-MANAGEMENT/32-ai-in-project-management-and-modern-toolkit.md) |
+| **Industry Tracks**| **Healthcare & Enterprise Systems Deep-Dive** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 33 | Clinical Workflow Mapping & Change Adoption in EMR | ⏳ Antrean | - |
+| • Module 34 | Financial Reconciliations & Health Insurance Claims Management | ⏳ Antrean | - |
+| • Module 35 | Enterprise System Architecture & Interoperability Standards | ⏳ Antrean | - |
 
 ---
 
@@ -98,7 +104,12 @@ project-management/
 │   ├── 24-advanced-planning-and-stakeholder-negotiation.md # Modul 24: Negosiasi Stakeholder & BATNA
 │   ├── 25-master-project-planning-with-spreadsheets.md # Modul 25: Perencanaan Master dengan Google Sheets
 │   ├── 26-defining-and-measuring-project-success.md  # Modul 26: Mengukur Sukses Proyek & Audit PIR
-│   └── 27-navigating-vuca-in-project-management.md   # Modul 27: Menavigasi Dinamika VUCA & Agility
+│   ├── 27-navigating-vuca-in-project-management.md   # Modul 27: Menavigasi Dinamika VUCA & Agility
+│   ├── 28-lean-methodology-and-waste-elimination.md  # Modul 28: 5 Prinsip Lean & Eliminasi Pemborosan
+│   ├── 29-hybrid-project-management-methodology.md   # Modul 29: Metodologi Hibrida (Water-Scrum-Fall)
+│   ├── 30-the-agile-manifesto-and-12-principles.md   # Modul 30: Nilai & 12 Prinsip Agile Manifesto
+│   ├── 31-customer-centricity-and-pm-strategic-value.md # Modul 31: Customer Centricity & Nilai PM
+│   └── 32-ai-in-project-management-and-modern-toolkit.md # Modul 32: AI dalam Manajemen Proyek Modern
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
