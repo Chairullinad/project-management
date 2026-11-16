@@ -65,10 +65,15 @@ flowchart LR
 | • Module 30 | The Agile Manifesto & The 12 Guiding Principles | ✅ Selesai | [30-the-agile-manifesto-and-12-principles.md](./COURSE-PROJECT-MANAGEMENT/30-the-agile-manifesto-and-12-principles.md) |
 | • Module 31 | Customer Centricity & The Strategic Value of a PM | ✅ Selesai | [31-customer-centricity-and-pm-strategic-value.md](./COURSE-PROJECT-MANAGEMENT/31-customer-centricity-and-pm-strategic-value.md) |
 | • Module 32 | AI in Project Management & The Modern PM Toolkit | ✅ Selesai | [32-ai-in-project-management-and-modern-toolkit.md](./COURSE-PROJECT-MANAGEMENT/32-ai-in-project-management-and-modern-toolkit.md) |
-| **Industry Tracks**| **Healthcare & Enterprise Systems Deep-Dive** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
-| • Module 33 | Clinical Workflow Mapping & Change Adoption in EMR | ⏳ Antrean | - |
-| • Module 34 | Financial Reconciliations & Health Insurance Claims Management | ⏳ Antrean | - |
-| • Module 35 | Enterprise System Architecture & Interoperability Standards | ⏳ Antrean | - |
+| **Industry Tracks**| **Healthcare & Enterprise Systems Deep-Dive** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 33 | Clinical Workflow Mapping & EMR Change Adoption | ✅ Selesai | [33-clinical-workflow-mapping-and-emr-adoption.md](./COURSE-PROJECT-MANAGEMENT/33-clinical-workflow-mapping-and-emr-adoption.md) |
+| • Module 34 | Healthcare Financial Reconciliation & Claims Management | ✅ Selesai | [34-financial-reconciliation-and-claims-management.md](./COURSE-PROJECT-MANAGEMENT/34-financial-reconciliation-and-claims-management.md) |
+| • Module 35 | Enterprise System Architecture & FHIR Interoperability | ✅ Selesai | [35-enterprise-interoperability-and-fhir-standards.md](./COURSE-PROJECT-MANAGEMENT/35-enterprise-interoperability-and-fhir-standards.md) |
+| • Module 36 | Data Governance, Patient Privacy & Security Audits | ✅ Selesai | [36-data-governance-patient-privacy-and-security.md](./COURSE-PROJECT-MANAGEMENT/36-data-governance-patient-privacy-and-security.md) |
+| • Module 37 | Multi-Vendor Integration & Third-Party SLA Governance | ✅ Selesai | [37-managing-vendor-integrations-and-sla-governance.md](./COURSE-PROJECT-MANAGEMENT/37-managing-vendor-integrations-and-sla-governance.md) |
+| **Capstone Mastery**| **Real-World Case Studies & Career Portfolio** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 38 | Comprehensive Project Portfolio & Star Behavioral Interview | ⏳ Antrean | - |
+| • Module 39 | End-to-End Enterprise Project Charter to Closing Simulation | ⏳ Antrean | - |
 
 ---
 
@@ -109,7 +114,12 @@ project-management/
 │   ├── 29-hybrid-project-management-methodology.md   # Modul 29: Metodologi Hibrida (Water-Scrum-Fall)
 │   ├── 30-the-agile-manifesto-and-12-principles.md   # Modul 30: Nilai & 12 Prinsip Agile Manifesto
 │   ├── 31-customer-centricity-and-pm-strategic-value.md # Modul 31: Customer Centricity & Nilai PM
-│   └── 32-ai-in-project-management-and-modern-toolkit.md # Modul 32: AI dalam Manajemen Proyek Modern
+│   ├── 32-ai-in-project-management-and-modern-toolkit.md # Modul 32: AI dalam Manajemen Proyek Modern
+│   ├── 33-clinical-workflow-mapping-and-emr-adoption.md # Modul 33: Pemetaan Alur Klinis & Adopsi RME
+│   ├── 34-financial-reconciliation-and-claims-management.md # Modul 34: Rekonsiliasi Finansial & Klaim BPJS
+│   ├── 35-enterprise-interoperability-and-fhir-standards.md # Modul 35: Interoperabilitas FHIR & SATUSEHAT
+│   ├── 36-data-governance-patient-privacy-and-security.md # Modul 36: Tata Kelola Data & Keamanan UU PDP
+│   └── 37-managing-vendor-integrations-and-sla-governance.md # Modul 37: Manajemen Vendor & Kontrak SLA
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
