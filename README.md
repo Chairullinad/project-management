@@ -28,9 +28,10 @@ flowchart LR
 | :--- | :--- | :---: | :--- |
 | **Course 1** | **Foundations of Project Management** | 🟡 In Progress | [`01-foundations-of-project-management/`](./01-foundations-of-project-management/) |
 | • Module 1 | Intro to Project Management (Role, Value, & Life Cycle) | ✅ Selesai | [01-intro-to-project-management.md](./01-foundations-of-project-management/01-intro-to-project-management.md) |
-| • Module 2 | Project Management Approaches & Methodologies | ⏳ Antrean | - |
-| • Module 3 | Organizational Structure & Culture | ⏳ Antrean | - |
-| • Module 4 | Change Management & Project Governance | ⏳ Antrean | - |
+| • Module 2 | Finding Project Manager Jobs & Career Pathways | ✅ Selesai | [02-finding-project-manager-jobs.md](./01-foundations-of-project-management/02-finding-project-manager-jobs.md) |
+| • Module 3 | How Company Culture & Structure Affects Projects | ✅ Selesai | [03-company-culture-and-project-management.md](./01-foundations-of-project-management/03-company-culture-and-project-management.md) |
+| • Module 4 | Project Management Methodologies (Agile vs Waterfall) | ⏳ Antrean | - |
+| • Module 5 | Organizational Change Management & Governance | ⏳ Antrean | - |
 | **Course 2** | **Project Initiation: Starting a Successful Project** | ⏳ Rencana | `02-project-initiation/` |
 | **Course 3** | **Project Planning: Putting It All Together** | ⏳ Rencana | `03-project-planning/` |
 | **Course 4** | **Project Execution: Running the Project** | ⏳ Rencana | `04-project-execution/` |
@@ -43,11 +44,13 @@ flowchart LR
 
 ```
 project-management/
-├── README.md                                  # Peta kurikulum & progress belajar
-├── 01-foundations-of-project-management/      # Kursus 1: Dasar-dasar Manajemen Proyek
-│   └── 01-intro-to-project-management.md      # Modul 1: Pengenalan PM, Value, & Siklus Hidup
-├── templates/                                 # Template dokumen kerja PM (Charter, WBS, RACI)
-└── case-studies/                              # Studi kasus mendalam lintas industri
+├── README.md                                         # Peta kurikulum & progress belajar
+├── 01-foundations-of-project-management/             # Kursus 1: Dasar-dasar Manajemen Proyek
+│   ├── 01-intro-to-project-management.md             # Modul 1: Pengenalan PM, Value, & Siklus Hidup
+│   ├── 02-finding-project-manager-jobs.md            # Modul 2: Lanskap Karier PM & Formula XYZ
+│   └── 03-company-culture-and-project-management.md  # Modul 3: Budaya Organisasi & Change Management
+├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
+└── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
 
 ---
