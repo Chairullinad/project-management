@@ -47,13 +47,16 @@ flowchart LR
 | • Module 15 | Data Storytelling for Decision Making | ✅ Selesai | [15-data-storytelling-for-decision-making.md](./COURSE-PROJECT-MANAGEMENT/15-data-storytelling-for-decision-making.md) |
 | • Module 16 | Quality Management & Continuous Improvement (QA vs QC) | ✅ Selesai | [16-quality-management-and-continuous-improvement.md](./COURSE-PROJECT-MANAGEMENT/16-quality-management-and-continuous-improvement.md) |
 | • Module 17 | How & When to Close a Project (BAST & Lessons Learned) | ✅ Selesai | [17-project-closing-and-retrospective.md](./COURSE-PROJECT-MANAGEMENT/17-project-closing-and-retrospective.md) |
-| **Course 5** | **Agile & Scrum Project Management** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
-| • Module 18 | Effective Project Management & Tracking Methods | ⏳ Antrean | - |
-| • Module 19 | What is Scrum? Roles, Events & Artifacts | ⏳ Antrean | - |
-| • Module 20 | Agile & Scrum in the Real World | ⏳ Antrean | - |
-| • Module 21 | Scrum Master Tutorial & Team Facilitation | ⏳ Antrean | - |
-| • Module 22 | Agile Management & Sprint Retrospective | ⏳ Antrean | - |
-| **Course 6** | **Capstone: Applying PM in the Real World** | ⏳ Rencana | `06-capstone-project/` |
+| **Course 5** | **Agile & Scrum Project Management** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 18 | Project Tracking Methods & Performance Metrics | ✅ Selesai | [18-project-tracking-methods-and-metrics.md](./COURSE-PROJECT-MANAGEMENT/18-project-tracking-methods-and-metrics.md) |
+| • Module 19 | What is Scrum? Roles, Events, & Artifacts | ✅ Selesai | [19-what-is-scrum-framework.md](./COURSE-PROJECT-MANAGEMENT/19-what-is-scrum-framework.md) |
+| • Module 20 | Agile & Scrum in the Real World: User Stories & Estimation | ✅ Selesai | [20-agile-and-scrum-in-the-real-world.md](./COURSE-PROJECT-MANAGEMENT/20-agile-and-scrum-in-the-real-world.md) |
+| • Module 21 | The Scrum Master Playbook: Facilitation & Blocker Removal | ✅ Selesai | [21-scrum-master-guide-and-facilitation.md](./COURSE-PROJECT-MANAGEMENT/21-scrum-master-guide-and-facilitation.md) |
+| • Module 22 | Agile Management & High-Impact Retrospectives | ✅ Selesai | [22-agile-management-and-retrospectives.md](./COURSE-PROJECT-MANAGEMENT/22-agile-management-and-retrospectives.md) |
+| **Course 6** | **Capstone: Applying PM in the Real World** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 23 | Writing Project Closure Reports & Stakeholder Negotiation | ⏳ Antrean | - |
+| • Module 24 | Advanced Sprint Planning & Capacity Management | ⏳ Antrean | - |
+| • Module 25 | Scaling Agile, Hybrid PM & Career Portfolio Finalization | ⏳ Antrean | - |
 
 ---
 
@@ -79,7 +82,12 @@ project-management/
 │   ├── 14-leadership-vs-management-in-teams.md       # Modul 14: Kepemimpinan Tim & Keamanan Psikologis
 │   ├── 15-data-storytelling-for-decision-making.md   # Modul 15: Bercerita dengan Data untuk Keputusan
 │   ├── 16-quality-management-and-continuous-improvement.md # Modul 16: Manajemen Mutu (QA vs QC)
-│   └── 17-project-closing-and-retrospective.md       # Modul 17: Penutupan Proyek & Dokumen BAST
+│   ├── 17-project-closing-and-retrospective.md       # Modul 17: Penutupan Proyek & Dokumen BAST
+│   ├── 18-project-tracking-methods-and-metrics.md    # Modul 18: Pelacakan Proyek & Burndown Charts
+│   ├── 19-what-is-scrum-framework.md                 # Modul 19: Framework Scrum (Peran, Acara, Artefak)
+│   ├── 20-agile-and-scrum-in-the-real-world.md       # Modul 20: User Stories & Planning Poker
+│   ├── 21-scrum-master-guide-and-facilitation.md     # Modul 21: Panduan Praktis Scrum Master
+│   └── 22-agile-management-and-retrospectives.md     # Modul 22: Manajemen Agile & Retrospektif
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
