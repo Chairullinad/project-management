@@ -20,21 +20,27 @@
 Setiap pemangku kepentingan tidak bisa diperlakukan sama. Membanjiri pihak berkuasa tinggi yang minatnya rendah dengan detail teknis harian akan membuat mereka kesal, sementara mengabaikan pihak yang minatnya tinggi akan memicu penolakan di tingkat akar rumput.
 
 ```mermaid
-quadrantChart
-    title Matriks Kekuasaan vs Minat Pemangku Kepentingan (Mendelow)
-    x-axis Minat Rendah (Low Interest) --> Minat Tinggi (High Interest)
-    y-axis Kuasa Rendah (Low Power) --> Kuasa Tinggi (High Power)
-    quadrant-1 KELOLA KETAT (Manage Closely)
-    quadrant-2 JAGA TETAP PUAS (Keep Satisfied)
-    quadrant-3 PANTAU SECARA WAJAR (Monitor)
-    quadrant-4 BERI INFORMASI BERKALA (Keep Informed)
-    "Direktur Utama & Sponsor": [0.85, 0.90]
-    "Ketua Komite Medis (Dokter Senior)": [0.80, 0.85]
-    "Bagian Legal & Auditor Eksternal": [0.25, 0.75]
-    "Kepala Ruang Rawat Inap & Perawat": [0.85, 0.40]
-    "Staf Rekam Medis & Kasir": [0.80, 0.35]
-    "Vendor Software Pihak Ketiga": [0.30, 0.25]
+flowchart TD
+    subgraph HIGH_POWER ["KEKUASAAN TINGGI (HIGH POWER)"]
+        direction LR
+        Q2["KUADRAN 2: JAGA TETAP PUAS<br>(Keep Satisfied)<br>----------------------------------<br>• Bagian Hukum & Legal RS<br>• Auditor Keuangan Eksternal<br>• Komite Keselamatan Pasien"]
+        Q1["KUADRAN 1: KELOLA KETAT<br>(Manage Closely)<br>----------------------------------<br>• Project Sponsor / Direktur Utama<br>• Ketua Komite Medis (Dokter Senior)<br>• Lead System Architect"]
+    end
+    
+    subgraph LOW_POWER ["KEKUASAAN RENDAH (LOW POWER)"]
+        direction LR
+        Q3["KUADRAN 3: PANTAU WAJAR<br>(Monitor / Minimum Effort)<br>----------------------------------<br>• Vendor Software Pihak Ketiga Minor<br>• Pengguna Umum yang Jarang Terdampak"]
+        Q4["KUADRAN 4: BERI INFORMASI<br>(Keep Informed)<br>----------------------------------<br>• Kepala Ruang & Perawat Bangsal<br>• Staf Casemix & Rekam Medis<br>• Kasir Rawat Inap & Jalan"]
+    end
+    
+    HIGH_POWER --- LOW_POWER
 ```
+
+### Matriks Kuadran Kekuasaan vs Minat (Mendelow):
+| Kekuasaan \ Minat | Minat Rendah (*Low Interest*) | Minat Tinggi (*High Interest*) |
+| :--- | :--- | :--- |
+| **Kekuasaan Tinggi (*High Power*)** | **JAGA TETAP PUAS (*Keep Satisfied*)**<br>• Bagian Hukum / Legal RS<br>• Auditor Keuangan Eksternal<br>• Komite Keselamatan Pasien | **KELOLA KETAT (*Manage Closely*)**<br>• Project Sponsor & Direktur Utama<br>• Ketua Komite Medis (Dokter Senior)<br>• Lead System Architect |
+| **Kekuasaan Rendah (*Low Power*)** | **PANTAU SECARA WAJAR (*Monitor*)**<br>• Vendor software pihak ketiga minor<br>• Pengguna umum yang jarang terdampak | **BERI INFORMASI BERKALA (*Keep Informed*)**<br>• Kepala Ruang Rawat Inap & Perawat<br>• Staf Rekam Medis & Casemix<br>• Staf Kasir Pembayaran |
 
 ### Strategi Berdasarkan Kuadran:
 1. **Manage Closely (Kuasa Tinggi, Minat Tinggi)**:

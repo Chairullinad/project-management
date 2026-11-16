@@ -38,20 +38,28 @@ Setiap risiko yang teridentifikasi diberi bobot nilai pada skala 1 sampai 5 untu
 $$\text{Risk Score} = \text{Probability (Kemungkinan)} \times \text{Impact (Dampak)}$$
 
 ```mermaid
-quadrantChart
-    title Matriks Evaluasi Risiko (P × I Matrix)
-    x-axis Dampak Rendah (Impact) --> Dampak Kritis (Impact)
-    y-axis Kemungkinan Rendah (Probability) --> Kemungkinan Tinggi (Probability)
-    quadrant-1 PRIORITAS MERAH: Mitigasi Segera
-    quadrant-2 PRIORITAS KUNING: Pantau Berkala
-    quadrant-3 PRIORITAS HIJAU: Terima / Catat
-    quadrant-4 PRIORITAS KUNING: Siapkan Kontinjensi
-    "Server DB Crash saat Jam Layanan": [0.95, 0.35]
-    "Dokter Menolak Form Asesmen Baru": [0.70, 0.75]
-    "Keterlambatan Lisensi Library": [0.40, 0.45]
-    "Bug Minor Format Tanggal Tampilan": [0.20, 0.20]
-    "Koneksi Internet BPJS Down Nasional": [0.85, 0.50]
+flowchart TD
+    subgraph HIGH_PROB ["KEMUNGKINAN TINGGI (HIGH PROBABILITY)"]
+        direction LR
+        R_AMBER1["PRIORITAS KUNING: PANTAU KETAT<br>(Dampak Rendah - Sedang)<br>----------------------------------<br>• Bug format tanggal tampilan minor<br>• Keterlambatan balasan email vendor"]
+        R_RED["PRIORITAS MERAH: MITIGASI SEGERA<br>(Dampak Kritis & Bencana)<br>----------------------------------<br>• Dokter menolak form asesmen baru<br>• Koneksi internet BPJS down nasional<br>• Server DB crash saat jam sibuk"]
+    end
+    
+    subgraph LOW_PROB ["KEMUNGKINAN RENDAH (LOW PROBABILITY)"]
+        direction LR
+        R_GREEN["PRIORITAS HIJAU: TERIMA / CATAT<br>(Dampak Rendah)<br>----------------------------------<br>• Salah ketik label tombol minor<br>• Perubahan warna ikon form"]
+        R_AMBER2["PRIORITAS KUNING: SIAPKAN CADANGAN<br>(Dampak Tinggi tapi Jarang)<br>----------------------------------<br>• Kebakaran ruang data center utama<br>• Pemadaman listrik PLN total tanpa genset"]
+    end
+    
+    HIGH_PROB --- LOW_PROB
 ```
+
+### Matriks Evaluasi Risiko ($P \times I$ Matrix):
+| Probabilitas \ Dampak | Dampak Rendah (Skor 1–2) | Dampak Sedang (Skor 3) | Dampak Kritis (Skor 4–5) |
+| :--- | :--- | :--- | :--- |
+| **Tinggi (4–5)** | **Kuning (Skor 8–10)**: Pantau rutin | **Merah (Skor 12–15)**: Mitigasi aktif | **Merah (Skor 16–25)**: Darurat & Rencana Kontinjensi |
+| **Sedang (3)** | **Hijau (Skor 3–6)**: Terima | **Kuning (Skor 9)**: Pantau berkala | **Merah (Skor 12–15)**: Mitigasi aktif |
+| **Rendah (1–2)** | **Hijau (Skor 1–4)**: Catat | **Hijau (Skor 3–6)**: Terima | **Kuning (Skor 8–10)**: Rencana darurat |
 
 ### Klasifikasi Zona Risiko:
 * **Zona Merah (Skor 15–25)**: Risiko kritis. Wajib memiliki rencana mitigasi pencegahan aktif sebelum fase pengerjaan dimulai, serta harus dilaporkan langsung ke Project Sponsor.

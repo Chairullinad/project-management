@@ -53,10 +53,16 @@ flowchart LR
 | • Module 20 | Agile & Scrum in the Real World: User Stories & Estimation | ✅ Selesai | [20-agile-and-scrum-in-the-real-world.md](./COURSE-PROJECT-MANAGEMENT/20-agile-and-scrum-in-the-real-world.md) |
 | • Module 21 | The Scrum Master Playbook: Facilitation & Blocker Removal | ✅ Selesai | [21-scrum-master-guide-and-facilitation.md](./COURSE-PROJECT-MANAGEMENT/21-scrum-master-guide-and-facilitation.md) |
 | • Module 22 | Agile Management & High-Impact Retrospectives | ✅ Selesai | [22-agile-management-and-retrospectives.md](./COURSE-PROJECT-MANAGEMENT/22-agile-management-and-retrospectives.md) |
-| **Course 6** | **Capstone: Applying PM in the Real World** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
-| • Module 23 | Writing Project Closure Reports & Stakeholder Negotiation | ⏳ Antrean | - |
-| • Module 24 | Advanced Sprint Planning & Capacity Management | ⏳ Antrean | - |
-| • Module 25 | Scaling Agile, Hybrid PM & Career Portfolio Finalization | ⏳ Antrean | - |
+| **Course 6** | **Capstone: Applying PM in the Real World** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 23 | Writing Executive Project Closure Reports | ✅ Selesai | [23-writing-project-closure-reports.md](./COURSE-PROJECT-MANAGEMENT/23-writing-project-closure-reports.md) |
+| • Module 24 | Advanced Planning & Stakeholder Negotiation | ✅ Selesai | [24-advanced-planning-and-stakeholder-negotiation.md](./COURSE-PROJECT-MANAGEMENT/24-advanced-planning-and-stakeholder-negotiation.md) |
+| • Module 25 | Master Project Planning with Google Sheets | ✅ Selesai | [25-master-project-planning-with-spreadsheets.md](./COURSE-PROJECT-MANAGEMENT/25-master-project-planning-with-spreadsheets.md) |
+| • Module 26 | Defining & Measuring True Project Success | ✅ Selesai | [26-defining-and-measuring-project-success.md](./COURSE-PROJECT-MANAGEMENT/26-defining-and-measuring-project-success.md) |
+| • Module 27 | Navigating VUCA in Modern Project Management | ✅ Selesai | [27-navigating-vuca-in-project-management.md](./COURSE-PROJECT-MANAGEMENT/27-navigating-vuca-in-project-management.md) |
+| **Specialization** | **Advanced PM Practices & Lean Methodologies** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 28 | Advanced Agile & Lean Six Sigma Principles | ⏳ Antrean | - |
+| • Module 29 | Influencing Organizational Change & Stakeholder Dynamics | ⏳ Antrean | - |
+| • Module 30 | AI-Powered Project Management & Future PM Toolkit | ⏳ Antrean | - |
 
 ---
 
@@ -87,7 +93,12 @@ project-management/
 │   ├── 19-what-is-scrum-framework.md                 # Modul 19: Framework Scrum (Peran, Acara, Artefak)
 │   ├── 20-agile-and-scrum-in-the-real-world.md       # Modul 20: User Stories & Planning Poker
 │   ├── 21-scrum-master-guide-and-facilitation.md     # Modul 21: Panduan Praktis Scrum Master
-│   └── 22-agile-management-and-retrospectives.md     # Modul 22: Manajemen Agile & Retrospektif
+│   ├── 22-agile-management-and-retrospectives.md     # Modul 22: Manajemen Agile & Retrospektif
+│   ├── 23-writing-project-closure-reports.md         # Modul 23: Laporan Penutupan Proyek Eksekutif
+│   ├── 24-advanced-planning-and-stakeholder-negotiation.md # Modul 24: Negosiasi Stakeholder & BATNA
+│   ├── 25-master-project-planning-with-spreadsheets.md # Modul 25: Perencanaan Master dengan Google Sheets
+│   ├── 26-defining-and-measuring-project-success.md  # Modul 26: Mengukur Sukses Proyek & Audit PIR
+│   └── 27-navigating-vuca-in-project-management.md   # Modul 27: Menavigasi Dinamika VUCA & Agility
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
