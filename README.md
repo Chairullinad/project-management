@@ -5,16 +5,18 @@
 > Disusun oleh: **Dessy Rahmawati Chairullina, S.Kom**  
 > Sumber Materi: *Google Career Certificates — Project Management Professional Program*  
 > Playlist Referensi Utama: [Google Project Management Certificate (Grow with Google)](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk)  
-> Playlist Eksekusi Proyek: [Running the Project | Google Project Management Certificate](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6pHAmqR_WefTq1Wps0QgslA)
+> Playlist Eksekusi Proyek: [Running the Project | Google Project Management Certificate](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6pHAmqR_WefTq1Wps0QgslA)  
+> Playlist Jalur Karier PM: [Different Paths to be a Project Manager](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qgnZYyPwTE-caskhauisWI)
 
 ---
 
 ## 🎯 Tujuan Repositori
 Repositori ini berisi dokumentasi terstruktur, intisari materi, bedah metodologi, dan **studi kasus aplikatif** dari kurikulum lengkap **Google Project Management Certificate**. Repositori ini dirancang sebagai standar acuan profesional dan portofolio implementasi manajemen proyek di industri teknologi, kesehatan (*healthcare*), dan sistem *enterprise*.
 
-Repositori ini terbagi menjadi dua koleksi modul utama:
-1. 📂 **[`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/)**: Kurikulum lengkap 46 modul (Foundations, Initiation, Planning, Execution, Agile/Scrum, Capstone & Portfolio).
+Repositori ini terbagi menjadi tiga koleksi modul utama:
+1. 📂 **[`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/)**: Kurikulum komprehensif 46 modul (Foundations, Initiation, Planning, Execution, Agile/Scrum, Capstone & Portfolio).
 2. 📂 **[`HOW TO RUNNING THE PROJECT/`](./HOW TO RUNNING THE PROJECT/)**: Modul fokus eksekusi proyek (Leadership vs Management, Data Storytelling, Quality Management, Project Closure, Effective Execution, & Project Tracking).
+3. 📂 **[`DIFFERENT PATHS TO BE A PROJECT MANAGER/`](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/)**: Modul kepemimpinan, transisi karier, wewenang pengaruh, kantor PMO, dan pemecahan masalah (22 Modul).
 
 ---
 
@@ -109,6 +111,37 @@ Modul-modul di bawah ini merupakan deep-dive praktis dari seri khusus **Course 4
 
 ---
 
+## 🌟 Modul Khusus: Different Paths to be a Project Manager (Jalur Karier & Kepemimpinan)
+
+Koleksi 22 modul khusus yang membedah kepemimpinan, transisi karier, seni delegasi, kantor PMO, dan pemecahan masalah kompleks, dapat diakses langsung pada direktori [**`DIFFERENT PATHS TO BE A PROJECT MANAGER/`**](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/):
+
+| No | Modul Pembelajaran | Topik Bahasan Kunci | Video ID | Dokumen Lengkap |
+| :---: | :--- | :--- | :---: | :--- |
+| **01** | **Manfaat Daily Standup dan Ritme Tim** | Format 15 menit, 3 pertanyaan penyelaras, Walk the board, penanganan blocker cepat. | [VZNrkYYiwDk](https://www.youtube.com/watch?v=VZNrkYYiwDk) | [01-manfaat-daily-standup-dan-ritme-tim.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/01-manfaat-daily-standup-dan-ritme-tim.md) |
+| **02** | **Pelajari Cara Menjadi Pemimpin Proyek** | Persamaan Kepercayaan (Trust Equation), transisi IC ke Leader, ketenangan saat krisis. | [OpHuuv15VV8](https://youtu.be/OpHuuv15VV8) | [02-pelajari-cara-menjadi-pemimpin-proyek.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/02-pelajari-cara-menjadi-pemimpin-proyek.md) |
+| **03** | **Sehari dalam Kehidupan Manajer Program** | Program vs Project vs Portfolio, Dynamic Resource Balancing, orkestrasi 4 proyek simultan. | [Dhc1bd2StTM](https://youtu.be/Dhc1bd2StTM) | [03-sehari-dalam-kehidupan-program-manager.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/03-sehari-dalam-kehidupan-program-manager.md) |
+| **04** | **Tips untuk Retrospektif yang Sukses** | 5 tahap Esther Derby, format Sailboat & 4Ls, batasan maksimal 2 action items SMART. | [W4yemTNjYTU](https://youtu.be/W4yemTNjYTU) | [04-tips-retrospektif-yang-sukses.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/04-tips-retrospektif-yang-sukses.md) |
+| **05** | **Pentingnya Lingkup Kerja Terdefinisi** | Anatomi Scope Statement, kekuatan daftar Out-of-Scope, aturan WBS 100% dan batas 8/80. | [3uUwDCTR_ms](https://youtu.be/3uUwDCTR_ms) | [05-pentingnya-lingkup-kerja-terdefinisi.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/05-pentingnya-lingkup-kerja-terdefinisi.md) |
+| **06** | **Empati dalam Manajemen Proyek** | 3 tingkatan empati, praktik Job Shadowing (Gemba Walk), mengatasi penolakan form klinis. | [8PsljU8Pqac](https://youtu.be/8PsljU8Pqac) | [06-empati-dalam-manajemen-proyek.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/06-empati-dalam-manajemen-proyek.md) |
+| **07** | **Peningkatan Proses untuk Pemula** | Waktu bernilai tambah (VAT) vs NVAT, 8 pemborosan DOWNTIME, diagram swimlane As-Is/To-Be. | [1Kc0P8PH8i0](https://youtu.be/1Kc0P8PH8i0) | [07-peningkatan-proses-untuk-pemula.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/07-peningkatan-proses-untuk-pemula.md) |
+| **08** | **Transisi Karier & Transferable Skills** | Dari bartender/staf teknis ke PM, menerjemahkan pengalaman ke bahasa PM, formula Google XYZ. | [QySO1pr59os](https://youtu.be/QySO1pr59os) | [08-transisi-karier-dan-transferable-skills.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/08-transisi-karier-dan-transferable-skills.md) |
+| **09** | **Mengapa Pengaruh Penting sebagai PM** | Kepatuhan semu vs komitmen sejati, segitiga pengaruh, lobi pre-wiring pembekuan fitur. | [39BufAwyKhc](https://youtu.be/39BufAwyKhc) | [09-mengapa-pengaruh-penting-sebagai-pm.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/09-mengapa-pengaruh-penting-sebagai-pm.md) |
+| **10** | **Menjadi PM Berbasis Bukti Kerja** | Pergeseran Skills-First Hiring, triad Proof of Work, membangun portofolio tanpa judul jabatan. | [DgPYRU50V7E](https://youtu.be/DgPYRU50V7E) | [10-menjadi-pm-berbasis-keahlian-dan-bukti-kerja.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/10-menjadi-pm-berbasis-keahlian-dan-bukti-kerja.md) |
+| **11** | **Cara Mendelegasikan Tugas bagi PgM** | Menghindari The Superhero Trap, 5 level otonomi delegasi, delegasikan What & Why bukan How. | [36uBt118CLg](https://youtu.be/36uBt118CLg) | [11-cara-mendelegasikan-tugas-sebagai-program-manager.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/11-cara-mendelegasikan-tugas-sebagai-program-manager.md) |
+| **12** | **Bekerja di Kantor Manajemen Proyek (PMO)**| 3 model PMO (Supportive, Controlling, Directive), nilai strategis PMO, konsolidasi proyek SIMRS. | [0r0BmCBBR7Y](https://youtu.be/0r0BmCBBR7Y) | [12-bekerja-di-kantor-manajemen-proyek-pmo.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/12-bekerja-di-kantor-manajemen-proyek-pmo.md) |
+| **13** | **Tanggung Jawab Harian Manajer Proyek** | Membedakan Busywork vs High-Leverage Work, distribusi formula 8 jam harian, proteksi buffer. | [hZEp1XIniek](https://youtu.be/hZEp1XIniek) | [13-tanggung-jawab-harian-manajer-proyek.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/13-tanggung-jawab-harian-manajer-proyek.md) |
+| **14** | **Cara Mengelola & Mencegah Scope Creep** | Sumber pemicu scope creep, hukum fisika Triple Constraint, teknik diplomasi 'Yes, and...'. | [tkrE25qP8G8](https://youtu.be/tkrE25qP8G8) | [14-cara-mengelola-dan-mencegah-scope-creep.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/14-cara-mengelola-dan-mencegah-scope-creep.md) |
+| **15** | **Pentingnya Soft Skills dalam Proyek** | 5 pilar soft skills PM, Active listening menangkap subteks, mendamaikan sengketa dokter bedah. | [ySQtmeZ77_Y](https://youtu.be/ySQtmeZ77_Y) | [15-pentingnya-soft-skills-dalam-proyek.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/15-pentingnya-soft-skills-dalam-proyek.md) |
+| **16** | **Mengapa Semua Orang Butuh Keterampilan PM**| 5 keterampilan PM universal, mengapa PM kebal otomatisasi AI, transformasi staf farmasi. | [o2NwYj5v4Uo](https://youtu.be/o2NwYj5v4Uo) | [16-mengapa-setiap-orang-butuh-keterampilan-pm.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/16-mengapa-setiap-orang-butuh-keterampilan-pm.md) |
+| **17** | **Memilih Anggota Tim & Kolaborasi Efektif** | Profil talenta T-Shaped, bahaya The Brilliant Jerk, Skills Matrix, Team Working Agreement. | [vjI-gTHpV6M](https://youtu.be/vjI-gTHpV6M) | [17-memilih-anggota-tim-dan-kolaborasi-efektif.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/17-memilih-anggota-tim-dan-kolaborasi-efektif.md) |
+| **18** | **Cara Terbaik Berkomunikasi dengan Eksekutif**| Memahami dunia C-Suite, Minto Pyramid (BLUF), kamus bahasa teknis ke direksi, elevator pitch. | [wgwiVb_XQCM](https://youtu.be/wgwiVb_XQCM) | [18-cara-terbaik-berkomunikasi-dengan-eksekutif.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/18-cara-terbaik-berkomunikasi-dengan-eksekutif.md) |
+| **19** | **Tips Mendapatkan Pekerjaan PM Pertama** | Mengatasi paradoks Catch-22, 4 jalur masuk PM, optimasi resume ramah ATS, navigasi wawancara. | [TC3L_Dua9BA](https://youtu.be/TC3L_Dua9BA) | [19-tips-mendapatkan-pekerjaan-pm-pertama.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/19-tips-mendapatkan-pekerjaan-pm-pertama.md) |
+| **20** | **Pentingnya Contoh Kerja Nyata & Portofolio**| Show Don't Tell, 5 artefak bernilai tinggi, protokol sanitasi data (NDA safe), studi kasus 4 babak. | [oJbpLL8x-bo](https://youtu.be/oJbpLL8x-bo) | [20-pentingnya-contoh-kerja-nyata-dan-portofolio.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/20-pentingnya-contoh-kerja-nyata-dan-portofolio.md) |
+| **21** | **Pemecahan Masalah sebagai Keterampilan #1**| Gejala vs akar masalah, siklus 5 langkah pemecahan masalah, menjadi termostat bukan termometer. | [STXAUTfUln0](https://youtu.be/STXAUTfUln0) | [21-pemecahan-masalah-sebagai-keterampilan-nomor-satu.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/21-pemecahan-masalah-sebagai-keterampilan-nomor-satu.md) |
+| **22** | **Apa yang Membuat Scrum Master Efektif** | 3 dimensi pelayanan Scrum Master, SM vs PM tradisional, seni mengajukan powerful questions. | [HSw-y3EhA9U](https://youtu.be/HSw-y3EhA9U) | [22-apa-yang-membuat-scrum-master-efektif.md](./DIFFERENT%20PATHS%20TO%20BE%20A%20PROJECT%20MANAGER/22-apa-yang-membuat-scrum-master-efektif.md) |
+
+---
+
 ## 📂 Struktur Repositori
 
 ```
@@ -120,12 +153,18 @@ project-management/
 │   └── 46-ba-pm-career-portfolio-and-star-interview-mastery.md # Modul 46: Portofolio Karier & Wawancara STAR
 ├── HOW TO RUNNING THE PROJECT/                       # 6 Modul fokus eksekusi proyek Google PM
 │   ├── README.md                                     # Silabus & panduan kursus eksekusi
-│   ├── 01-kepemimpinan-vs-manajemen-tim-sukses.md    # Modul 1: Kepemimpinan vs Manajemen dalam Tim
-│   ├── 02-bercerita-dengan-data-untuk-keputusan.md   # Modul 2: Data Storytelling untuk Keputusan Eksekutif
-│   ├── 03-manajemen-mutu-dan-peningkatan-berkelanjutan.md # Modul 3: QA vs QC & Peningkatan Berkelanjutan
-│   ├── 04-cara-dan-waktu-menutup-proyek.md           # Modul 4: Kriteria & Penutupan Proyek (BAST)
-│   ├── 05-manajemen-proyek-yang-efektif.md           # Modul 5: Tata Kelola Eksekusi & Protokol BLUF
-│   └── 06-metode-dan-contoh-pelacakan-proyek.md      # Modul 6: Pelacakan Proyek (EVM, Agile, RAG)
+│   ├── 01-kepemimpinan-vs-manajemen-tim-sukses.md    # Modul 01: Kepemimpinan vs Manajemen dalam Tim
+│   ├── 02-bercerita-dengan-data-untuk-keputusan.md   # Modul 02: Data Storytelling untuk Keputusan Eksekutif
+│   ├── 03-manajemen-mutu-dan-peningkatan-berkelanjutan.md # Modul 03: QA vs QC & Peningkatan Berkelanjutan
+│   ├── 04-cara-dan-waktu-menutup-proyek.md           # Modul 04: Kriteria & Penutupan Proyek (BAST)
+│   ├── 05-manajemen-proyek-yang-efektif.md           # Modul 05: Tata Kelola Eksekusi & Protokol BLUF
+│   └── 06-metode-dan-contoh-pelacakan-proyek.md      # Modul 06: Pelacakan Proyek (EVM, Agile, RAG)
+├── DIFFERENT PATHS TO BE A PROJECT MANAGER/          # 22 Modul jalur karier, kepemimpinan & PMO
+│   ├── README.md                                     # Silabus & panduan jalur karier PM
+│   ├── 01-manfaat-daily-standup-dan-ritme-tim.md     # Modul 01: Manfaat Standup & Ritme Tim
+│   ├── 02-pelajari-cara-menjadi-pemimpin-proyek.md   # Modul 02: Cara Menjadi Pemimpin Proyek
+│   ├── ...                                           # [Modul 03 s.d. 21 Lengkap]
+│   └── 22-apa-yang-membuat-scrum-master-efektif.md   # Modul 22: Apa yang Membuat Scrum Master Efektif
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
