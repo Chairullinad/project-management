@@ -32,13 +32,18 @@ flowchart LR
 | • Module 3 | How Company Culture & Structure Affects Projects | ✅ Selesai | [03-company-culture-and-project-management.md](./COURSE-PROJECT-MANAGEMENT/03-company-culture-and-project-management.md) |
 | • Module 4 | Running Effective Meetings (Pre, During, Post Framework) | ✅ Selesai | [04-running-effective-meetings.md](./COURSE-PROJECT-MANAGEMENT/04-running-effective-meetings.md) |
 | • Module 5 | Effective Communication for Project Managers | ✅ Selesai | [05-effective-communication-for-pms.md](./COURSE-PROJECT-MANAGEMENT/05-effective-communication-for-pms.md) |
-| **Course 2** | **Project Initiation: Starting a Successful Project** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| **Course 2** | **Project Initiation: Starting a Successful Project** | 🟢 Selesai | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
 | • Module 6 | Key Components of Project Initiation & Project Charter | ✅ Selesai | [06-project-initiation-components.md](./COURSE-PROJECT-MANAGEMENT/06-project-initiation-components.md) |
 | • Module 7 | Stakeholder Engagement & Communication (Power-Interest & RACI) | ✅ Selesai | [07-stakeholder-engagement-and-communication.md](./COURSE-PROJECT-MANAGEMENT/07-stakeholder-engagement-and-communication.md) |
-| • Module 8 | Setting SMART Goals & Project Deliverables | ⏳ Antrean | - |
-| • Module 9 | Project Management Tools & Resource Allocation | ⏳ Antrean | - |
-| • Module 10 | Risk Management Fundamentals & Risk Register | ⏳ Antrean | - |
-| **Course 3** | **Project Planning: Putting It All Together** | ⏳ Rencana | `03-project-planning/` |
+| • Module 8 | Setting SMART Goals & OKRs for Measurable Impact | ✅ Selesai | [08-setting-smart-goals-and-okrs.md](./COURSE-PROJECT-MANAGEMENT/08-setting-smart-goals-and-okrs.md) |
+| • Module 9 | Project Management Tools & Software Architecture | ✅ Selesai | [09-project-management-tools-and-software.md](./COURSE-PROJECT-MANAGEMENT/09-project-management-tools-and-software.md) |
+| • Module 10 | Risk Management Fundamentals & Master Risk Register | ✅ Selesai | [10-risk-management-fundamentals.md](./COURSE-PROJECT-MANAGEMENT/10-risk-management-fundamentals.md) |
+| **Course 3** | **Project Planning: Putting It All Together** | 🟡 In Progress | [`COURSE-PROJECT-MANAGEMENT/`](./COURSE-PROJECT-MANAGEMENT/) |
+| • Module 11 | The Power & Benefits of Comprehensive Project Planning | ✅ Selesai | [11-power-of-project-planning.md](./COURSE-PROJECT-MANAGEMENT/11-power-of-project-planning.md) |
+| • Module 12 | Creating a Master Project Communication Plan | ✅ Selesai | [12-project-communication-plan.md](./COURSE-PROJECT-MANAGEMENT/12-project-communication-plan.md) |
+| • Module 13 | Project Budgeting, Cost Estimation & Procurement | ⏳ Antrean | - |
+| • Module 14 | Leadership vs Management in High-Performing Teams | ⏳ Antrean | - |
+| • Module 15 | Data Storytelling & Quality Management in Projects | ⏳ Antrean | - |
 | **Course 4** | **Project Execution: Running the Project** | ⏳ Rencana | `04-project-execution/` |
 | **Course 5** | **Agile Project Management (Scrum Framework)** | ⏳ Rencana | `05-agile-project-management/` |
 | **Course 6** | **Capstone: Applying PM in the Real World** | ⏳ Rencana | `06-capstone-project/` |
@@ -57,7 +62,12 @@ project-management/
 │   ├── 04-running-effective-meetings.md              # Modul 4: Cara Menyelenggarakan Rapat Efektif
 │   ├── 05-effective-communication-for-pms.md         # Modul 5: Komunikasi Efektif Manajer Proyek
 │   ├── 06-project-initiation-components.md           # Modul 6: Bagian Penting Inisiasi Proyek & Charter
-│   └── 07-stakeholder-engagement-and-communication.md # Modul 7: Analisis Stakeholder & Matriks RACI
+│   ├── 07-stakeholder-engagement-and-communication.md # Modul 7: Analisis Stakeholder & Matriks RACI
+│   ├── 08-setting-smart-goals-and-okrs.md            # Modul 8: Penetapan Sasaran SMART & OKRs
+│   ├── 09-project-management-tools-and-software.md   # Modul 9: Alat Manajemen Proyek & Spreadsheet
+│   ├── 10-risk-management-fundamentals.md            # Modul 10: Manajemen Risiko & Risk Register
+│   ├── 11-power-of-project-planning.md               # Modul 11: Manfaat Perencanaan Proyek Terstruktur
+│   └── 12-project-communication-plan.md              # Modul 12: Rencana Komunikasi Master Proyek
 ├── templates/                                        # Template dokumen kerja PM (Charter, WBS, RACI)
 └── case-studies/                                     # Studi kasus mendalam lintas industri
 ```
